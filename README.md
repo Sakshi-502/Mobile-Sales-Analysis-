@@ -1,4 +1,4 @@
-# Mobile-Sales-Analysis 
+# Mobile-Sales-Analysis-Power BI
 
 Through Power BI I had created a amazing mobile sales dashboard.
 Page-1
