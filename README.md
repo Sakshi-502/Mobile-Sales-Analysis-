@@ -5,9 +5,12 @@ Key Stages of the Project:
 Data Understanding & Preparation: It begins with analyzing the raw data structure and importing it from Excel into Power BI.
 
 Data Modeling:Learn to create a custom calendar table and establish relationships between data tables to ensure accurate analysis.
+
 DAX Calculations: Step-by-step guidance on creating essential DAX formulas for Total Sales, Total Quantity, and Average Price.
+
 Dashboard Design: Learn to build an interactive dashboard by adding KPIs, charts, and slicers.
-Key features include:
+
+### Key features include:
 Edit Interaction: Customizing how visuals react to filters.
 Time Intelligence DAX: Implementing MTD (Month-to-Date), QTD (Quarter-to-Date), and YTD (Year-to-Date) formulas.
 Same Period Last Year: Comparing current performance against historical data.
