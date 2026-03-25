@@ -1,6 +1,6 @@
 # Mobile-Sales-Analysis-Power BI
 
-Key Stages of the Project:
+#### Key Stages of the Project:
 
 Data Understanding & Preparation: It begins with analyzing the raw data structure and importing it from Excel into Power BI.
 
