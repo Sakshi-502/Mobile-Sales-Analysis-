@@ -1,4 +1,4 @@
-# Mobile-Sales-Analysis-Power BI
+# Mobile_Sales_Analysis-Power BI
 
 #### Key Stages of the Project:
 
